@@ -37,7 +37,7 @@ Upload photos and videos of your completed final project!
 
 Also upload the code that makes up your project to your repository.
 
-'''javascript
+```javascript
 // defines pins numbers
 int redPin = 5;
 int greenPin = 6;
@@ -100,7 +100,7 @@ void loop() {
 
   }
 }
-'''
+```
 
 ## References and links
 https://www.youtube.com/watch?v=5Qi93MjlqzE
