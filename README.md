@@ -33,10 +33,6 @@ It was difficult for me to understand how to connect the arduino and breadboard/
 
 ## Completed Work (Almost)
 
-Upload photos and videos of your completed final project!
-
-Also upload the code that makes up your project to your repository.
-
 ```javascript
 // defines pins numbers
 int redPin = 5;
